@@ -1,4 +1,3 @@
-from signal import siginterrupt
 import numpy as np
 
 def generate_revision_times(N, R, T, dt):
